@@ -1,9 +1,12 @@
 Deep Learning for analysis of MNIST dataset
+
 Apply a Deep Learning model to your project data (if possible). You can use another data set ONLY if it makes no sense to use a Deep Learning model for your project.
+
 PART A - DEEP LEARNING MODEL 
 On your project data
 •	Apply a Deep Learning model to your project data (if possible). Validate the accuracy.
 •	The Deep Learning model can be a CNN, RNN, Autoencoder, Variational autoencoder (VAE), Restricted Boltzmann machine (RBM), Deep belief network (DBN) or Generative Model. It cannot be a simple multilayer perceptron (MLP).
+
 PART B - ACTIVATION FUNCTION 
 On your Deep Learning model data
 •	Change the activation function. How does it effect the accuracy?
@@ -28,6 +31,7 @@ On your Deep Learning model data
 •	Sinusoid
 •	Sinc
 •	Gaussian
+
 PART C - COST FUNCTION
 On your Deep Learning model data
 •	Change the cost function. How does it effect the accuracy?
@@ -40,10 +44,12 @@ On your Deep Learning model data
 •	Cosine Proximity
 •	User defined
 And many more, see https://keras.io/losses/
+
 PART D - EPOCHS 
 On your Deep Learning model data
 •	Change the number of epochs initialization. How does it effect the accuracy?
 •	How quickly does the network plateau?
+
 PART E - GRADIENT ESTIMATION 
 On your Deep Learning model data
 •	Change the gradient estimation. How does it effect the accuracy?
@@ -56,6 +62,7 @@ On your Deep Learning model data
 •	NAG
 •	Adadelta
 •	Momentum
+
 PART F - NETWORK ARCHITECTURE 
 On your Deep Learning model data
 •	Change the network architecture. How does it effect the accuracy?
@@ -65,6 +72,7 @@ On your Deep Learning model data
 •	Size of each layer
 •	Connection type
 •	Pre-trained components?
+
 PART G - NETWORK INITIALIZATION 
 On your Deep Learning model data
 •	Change the network initialization. How does it effect the accuracy?
