@@ -1,13 +1,14 @@
-Deep Learning for analysis of MNIST dataset
+<h3><b>Deep Learning for analysis of MNIST dataset</b></h3>
 
 Apply a Deep Learning model to your project data (if possible). You can use another data set ONLY if it makes no sense to use a Deep Learning model for your project.
 
-PART A - DEEP LEARNING MODEL 
+<b>PART A - DEEP LEARNING MODEL</b> 
 On your project data
+
 •	Apply a Deep Learning model to your project data (if possible). Validate the accuracy.
 •	The Deep Learning model can be a CNN, RNN, Autoencoder, Variational autoencoder (VAE), Restricted Boltzmann machine (RBM), Deep belief network (DBN) or Generative Model. It cannot be a simple multilayer perceptron (MLP).
 
-PART B - ACTIVATION FUNCTION 
+<b>PART B - ACTIVATION FUNCTION</b> 
 On your Deep Learning model data
 •	Change the activation function. How does it effect the accuracy?
 •	How does it effect how quickly the network plateaus?
@@ -32,7 +33,7 @@ On your Deep Learning model data
 •	Sinc
 •	Gaussian
 
-PART C - COST FUNCTION
+<b>PART C - COST FUNCTION</b>
 On your Deep Learning model data
 •	Change the cost function. How does it effect the accuracy?
 •	How does it effect how quickly the network plateaus?
@@ -45,12 +46,12 @@ On your Deep Learning model data
 •	User defined
 And many more, see https://keras.io/losses/
 
-PART D - EPOCHS 
+<b>PART D - EPOCHS</b>
 On your Deep Learning model data
 •	Change the number of epochs initialization. How does it effect the accuracy?
 •	How quickly does the network plateau?
 
-PART E - GRADIENT ESTIMATION 
+<b>PART E - GRADIENT ESTIMATION </b>
 On your Deep Learning model data
 •	Change the gradient estimation. How does it effect the accuracy?
 •	How does it effect how quickly the network plateaus?
@@ -63,7 +64,7 @@ On your Deep Learning model data
 •	Adadelta
 •	Momentum
 
-PART F - NETWORK ARCHITECTURE 
+<b>PART F - NETWORK ARCHITECTURE</b> 
 On your Deep Learning model data
 •	Change the network architecture. How does it effect the accuracy?
 •	How does it effect how quickly the network plateaus?
@@ -73,7 +74,7 @@ On your Deep Learning model data
 •	Connection type
 •	Pre-trained components?
 
-PART G - NETWORK INITIALIZATION 
+<b>PART G - NETWORK INITIALIZATION</b>
 On your Deep Learning model data
 •	Change the network initialization. How does it effect the accuracy?
 •	How does it effect how quickly the network plateaus?
